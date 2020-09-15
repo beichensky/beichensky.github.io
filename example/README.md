@@ -38,6 +38,6 @@
 
 - [demo18](/example/react-demos/demo18)
 
-- [渐变色生成器](/example/gradient-generator)
+- [渐变色生成器](/example/react-demos/gradient-generator)
 
 - [拖拽排序](/example/react-dnd-hooks-demo)
